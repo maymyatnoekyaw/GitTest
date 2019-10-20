@@ -1,0 +1,12 @@
+git init
+git add .
+git commit -m "first commit"
+git config --global user.email "maymyatnoekyaw17@gmail.com"
+git config --global user.name "SAPnoenoe102$"
+git commit -m "first commit"
+git remote add origin https://github.com/maymyatnoekyaw/GitTest.git
+git push -u origin master
+
+Github email - maymyatnoekyaw17@gmail.com
+Github password - SAPnoenoe102$
+Github username - maymyatnoekyaw/meemee
